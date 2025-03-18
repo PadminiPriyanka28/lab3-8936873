@@ -25,4 +25,4 @@ Resources:
 Outputs:
   BucketName:
     Description: The name of the created S3 bucket
-    Value: !Ref S3Bucket-PPP-8936873
+    Value: !Ref S3Bucket
